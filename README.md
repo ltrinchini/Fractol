@@ -1,6 +1,6 @@
 # Fractol
 
-<div style="display" align="left">
+<div style="display" align="center">
 <img src="./rscs/Mandelbrot.gif" width="30%">
 <img src="./rscs/Julia.gif" width="30%">
 <img src="./rscs/Burningship.gif" width="30%">
