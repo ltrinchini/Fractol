@@ -48,7 +48,7 @@ cd Fractol
 git submodule update --init libft
 ````
 
-Then, complie the program by running:
+Then, compile the program by running:
 ````bash
 make
 ````
